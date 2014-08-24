@@ -3,6 +3,7 @@ NAME ...
 
 QUICK INSTALL
         > git clone git://github.com/ingydotnet/....git
+        > mkdir -p ~/...
         > .../... conf .../example.conf
         > .../... update
         > .../... install
